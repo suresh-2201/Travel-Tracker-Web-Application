@@ -62,13 +62,13 @@ Travel-Tracker-Web-Application/<br>
 │── package.json          # Project metadata & dependencies  <br>
 │── package-lock.json  <br>
 │── schema.sql            # Database schema  <br>
-│── README.md             # Documentation  <br>
+└── README.md             # Documentation  <br>
 
 ▶️ Running the App
 
 Clone the repo:
 
-git clone https://github.com/your-username/travel-tracker.git
+git clone https://github.com/suresh-2201/Travel-Tracker-Web-Application
 cd travel-tracker
 
 
