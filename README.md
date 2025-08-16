@@ -69,7 +69,7 @@ Travel-Tracker-Web-Application/<br>
 Clone the repo:
 
 git clone https://github.com/suresh-2201/Travel-Tracker-Web-Application
-cd travel-tracker
+cd Travel-Tracker-Web-Application
 
 
 Install dependencies:
@@ -90,5 +90,6 @@ http://localhost:3000
 
 ![alt text](image.png)
 
+Inspired by Angela Yu's Web Development Bootcamp.
 
 Made with ❤️ by Suresh Kumar Prajapat C
