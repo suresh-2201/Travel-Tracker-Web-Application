@@ -61,8 +61,7 @@ Travel-Tracker-Web-Application/<br>
 │── index.js              # Express server entry point <br> 
 │── package.json          # Project metadata & dependencies  <br>
 │── package-lock.json  <br>
-│── schema.sql            # (✔ to be added) Database schema  <br>
-│── seed.sql              # (✔ to be added) Sample data  <br>
+│── schema.sql            # Database schema  <br>
 │── README.md             # Documentation  <br>
 
 ▶️ Running the App
